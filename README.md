@@ -35,4 +35,4 @@ The dashboard provides insights into restaurant sales performance, customer rati
 - Data Visualization
 
 ## Author
-Aditya Sandesh
+Ansh Jaiswal
